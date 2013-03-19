@@ -33,11 +33,17 @@ TradeSkillMaster_CraftingDB = {
 				["crafts"] = {
 				},
 			},
-			["queueMinProfitGold"] = {
-				["Jewelcrafting"] = 50,
+			["Enchanting"] = {
+				["mats"] = {
+				},
+				["crafts"] = {
+				},
 			},
-			["lastScan"] = {
-				["Jewelcrafting"] = 1363517314,
+			["Tailoring"] = {
+				["mats"] = {
+				},
+				["crafts"] = {
+				},
 			},
 			["queueMinProfitPercent"] = {
 				["Jewelcrafting"] = 0.5,
@@ -58,8 +64,8 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "源生之土",
 					},
 					[22456] = {
-						["source"] = "auction",
 						["name"] = "源生暗影",
+						["source"] = "auction",
 					},
 					[52195] = {
 						["name"] = "琥珀晶石",
@@ -114,8 +120,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[10286] = {
-						["source"] = "auction",
 						["name"] = "野性之心",
+						["source"] = "auction",
 					},
 					[25867] = {
 						["name"] = "大地风暴钻石",
@@ -137,8 +143,8 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "珠宝师的底座",
 					},
 					[76134] = {
-						["source"] = "auction",
 						["name"] = "日长石",
+						["source"] = "auction",
 					},
 					[11083] = {
 						["name"] = "灵魂之尘",
@@ -208,16 +214,16 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "清洁的德拉诺之水",
 					},
 					[21752] = {
-						["source"] = "craft",
 						["name"] = "瑟银底座",
+						["source"] = "craft",
 					},
 					[52325] = {
 						["name"] = "动燃火焰",
 						["source"] = "auction",
 					},
 					[32227] = {
-						["source"] = "auction",
 						["name"] = "赤尖石",
+						["source"] = "auction",
 					},
 					[32231] = {
 						["source"] = "auction",
@@ -227,8 +233,8 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "天火钻石",
 					},
 					[23079] = {
-						["source"] = "auction",
 						["name"] = "翠榄石",
+						["source"] = "auction",
 					},
 					[52182] = {
 						["source"] = "auction",
@@ -339,8 +345,8 @@ TradeSkillMaster_CraftingDB = {
 						["customValue"] = 180000,
 					},
 					[41163] = {
-						["source"] = "auction",
 						["name"] = "泰坦神铁锭",
+						["source"] = "auction",
 					},
 					[7075] = {
 						["name"] = "大地之核",
@@ -363,8 +369,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[20817] = {
-						["source"] = "auction",
 						["name"] = "青铜底座",
+						["source"] = "auction",
 					},
 					[76142] = {
 						["source"] = "custom",
@@ -377,12 +383,12 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "黑玉",
 					},
 					[12359] = {
-						["source"] = "auction",
 						["name"] = "瑟银锭",
+						["source"] = "auction",
 					},
 					[12361] = {
-						["source"] = "auction",
 						["name"] = "蓝宝石",
+						["source"] = "auction",
 					},
 					[12363] = {
 						["source"] = "auction",
@@ -401,8 +407,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[23439] = {
-						["name"] = "黄晶玉",
 						["source"] = "auction",
+						["name"] = "黄晶玉",
 					},
 					[1529] = {
 						["source"] = "auction",
@@ -421,8 +427,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[52177] = {
-						["source"] = "auction",
 						["name"] = "红玉髓",
+						["source"] = "auction",
 					},
 					[52193] = {
 						["name"] = "暗烬黄玉",
@@ -453,16 +459,16 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[52179] = {
-						["source"] = "auction",
 						["name"] = "阿里锡黄晶",
+						["source"] = "auction",
 					},
 					[23440] = {
-						["name"] = "黎明石",
 						["source"] = "auction",
+						["name"] = "黎明石",
 					},
 					[23573] = {
-						["source"] = "auction",
 						["name"] = "硬化精金锭",
+						["source"] = "auction",
 					},
 					[12662] = {
 						["name"] = "恶魔符文",
@@ -486,8 +492,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[76137] = {
-						["source"] = "auction",
 						["name"] = "紫翠玉",
+						["source"] = "auction",
 					},
 					[32229] = {
 						["name"] = "狮眼石",
@@ -514,16 +520,16 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "金锭",
 					},
 					[1210] = {
-						["source"] = "auction",
 						["name"] = "暗影石",
+						["source"] = "auction",
 					},
 					[23077] = {
-						["source"] = "auction",
 						["name"] = "血榴石",
+						["source"] = "auction",
 					},
 					[20816] = {
-						["source"] = "auction",
 						["name"] = "精巧的铜线",
+						["source"] = "auction",
 					},
 					[76136] = {
 						["source"] = "auction",
@@ -534,8 +540,8 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "泽菲蓝晶石",
 					},
 					[7909] = {
-						["name"] = "青绿石",
 						["source"] = "auction",
+						["name"] = "青绿石",
 					},
 					[7910] = {
 						["name"] = "红宝石",
@@ -562,8 +568,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[36920] = {
-						["source"] = "auction",
 						["name"] = "太阳水晶",
+						["source"] = "auction",
 					},
 					[1206] = {
 						["name"] = "绿玛瑙",
@@ -578,8 +584,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[2840] = {
-						["name"] = "铜锭",
 						["source"] = "auction",
+						["name"] = "铜锭",
 					},
 					[7912] = {
 						["name"] = "坚固的石头",
@@ -590,16 +596,16 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "冰冻宝珠",
 					},
 					[2841] = {
-						["source"] = "auction",
 						["name"] = "青铜锭",
+						["source"] = "auction",
 					},
 					[37701] = {
 						["source"] = "auction",
 						["name"] = "土之结晶",
 					},
 					[36924] = {
-						["source"] = "auction",
 						["name"] = "天蓝石",
+						["source"] = "auction",
 					},
 					[21886] = {
 						["source"] = "auction",
@@ -614,8 +620,8 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "虎眼石",
 					},
 					[774] = {
-						["source"] = "auction",
 						["name"] = "孔雀石",
+						["source"] = "auction",
 					},
 					[76131] = {
 						["name"] = "源红石",
@@ -624,8 +630,8 @@ TradeSkillMaster_CraftingDB = {
 						["customValue"] = 180000,
 					},
 					[23436] = {
-						["source"] = "auction",
 						["name"] = "红曜石",
+						["source"] = "auction",
 					},
 					[5637] = {
 						["name"] = "大牙齿",
@@ -644,8 +650,8 @@ TradeSkillMaster_CraftingDB = {
 						["source"] = "auction",
 					},
 					[76133] = {
-						["source"] = "auction",
 						["name"] = "青金石",
+						["source"] = "auction",
 					},
 				},
 				["crafts"] = {
@@ -657,6 +663,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "亡狮之戒",
+						["enabled"] = true,
 						["group"] = 10,
 						["queued"] = 0,
 						["spellID"] = 122667,
@@ -721,7 +728,7 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "鲜亮荒玉",
 						["enabled"] = true,
 						["group"] = 5,
-						["queued"] = 0,
+						["queued"] = -1,
 						["spellID"] = 106961,
 					},
 					[45813] = {
@@ -928,7 +935,7 @@ TradeSkillMaster_CraftingDB = {
 						["name"] = "魔像毁灭者护符",
 						["enabled"] = true,
 						["group"] = 10,
-						["queued"] = 1,
+						["queued"] = 0,
 						["spellID"] = 122670,
 					},
 					[21933] = {
@@ -1029,8 +1036,9 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "破碎荒玉",
+						["enabled"] = true,
 						["group"] = 5,
-						["queued"] = 0,
+						["queued"] = -5,
 						["spellID"] = 107745,
 					},
 					[76682] = {
@@ -1140,6 +1148,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "复仇皇紫晶",
+						["enabled"] = true,
 						["group"] = 4,
 						["queued"] = 0,
 						["spellID"] = 107700,
@@ -1369,6 +1378,49 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 26928,
 					},
+					[21758] = {
+						["mats"] = {
+							[7971] = 4,
+						},
+						["numMade"] = 1,
+						["name"] = "雕像 - 黑珍珠猎豹",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 26875,
+					},
+					[21790] = {
+						["mats"] = {
+							[21752] = 1,
+							[12808] = 1,
+							[12361] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "寒冬之蓝宝石坠饰",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 26908,
+					},
+					[89680] = {
+						["mats"] = {
+							[76141] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "刺客的皇紫晶",
+						["enabled"] = true,
+						["group"] = 4,
+						["queued"] = 0,
+						["spellID"] = 130657,
+					},
+					[24056] = {
+						["mats"] = {
+							[23441] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "永恒夜目石",
+						["group"] = 4,
+						["queued"] = 0,
+						["spellID"] = 31104,
+					},
 					[32194] = {
 						["mats"] = {
 							[32227] = 1,
@@ -1390,15 +1442,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25620,
 					},
-					[21758] = {
+					[29158] = {
 						["mats"] = {
-							[7971] = 4,
+							[6037] = 3,
+							[7910] = 2,
+							[3864] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 黑珍珠猎豹",
+						["name"] = "真银指挥官之戒",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 26875,
+						["spellID"] = 34959,
 					},
 					[32218] = {
 						["mats"] = {
@@ -1450,17 +1504,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 53844,
 					},
-					[21790] = {
+					[42395] = {
 						["mats"] = {
-							[21752] = 1,
-							[12808] = 1,
-							[12361] = 1,
+							[41163] = 2,
+							[36927] = 2,
+							[36930] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "寒冬之蓝宝石坠饰",
+						["name"] = "雕像 - 暮光蛇",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 26908,
+						["spellID"] = 56201,
 					},
 					[76686] = {
 						["mats"] = {
@@ -1537,39 +1591,36 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28948,
 					},
-					[24056] = {
+					[20958] = {
 						["mats"] = {
-							[23441] = 1,
+							[3864] = 1,
+							[20963] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "永恒夜目石",
+						["name"] = "闪耀黄水晶之戒",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 25617,
+					},
+					[32225] = {
+						["mats"] = {
+							[32230] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "纯净影歌紫玉",
 						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 31104,
+						["spellID"] = 39741,
 					},
-					[29158] = {
+					[52490] = {
 						["mats"] = {
-							[6037] = 3,
-							[7910] = 2,
-							[3864] = 2,
+							[52180] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "真银指挥官之戒",
+						["name"] = "星尘",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 34959,
-					},
-					[42395] = {
-						["mats"] = {
-							[41163] = 2,
-							[36927] = 2,
-							[36930] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "雕像 - 暮光蛇",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 56201,
+						["spellID"] = 73622,
 					},
 					[35501] = {
 						["mats"] = {
@@ -1601,27 +1652,27 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107637,
 					},
-					[89680] = {
+					[83806] = {
 						["mats"] = {
-							[76141] = 1,
+							[76734] = 6,
+							[76130] = 6,
+							[52188] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "刺客的皇紫晶",
-						["enabled"] = true,
-						["group"] = 4,
-						["queued"] = 0,
-						["spellID"] = 130657,
-					},
-					[20958] = {
-						["mats"] = {
-							[3864] = 1,
-							[20963] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "闪耀黄水晶之戒",
+						["name"] = "虎纹石垂饰",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 25617,
+						["spellID"] = 122673,
+					},
+					[76518] = {
+						["mats"] = {
+							[76137] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "破碎紫翠玉",
+						["group"] = 5,
+						["queued"] = 0,
+						["spellID"] = 107612,
 					},
 					[43246] = {
 						["mats"] = {
@@ -1645,73 +1696,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107701,
 					},
-					[83806] = {
-						["mats"] = {
-							[76734] = 6,
-							[76130] = 6,
-							[52188] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "虎纹石垂饰",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 122673,
-					},
-					[52492] = {
-						["mats"] = {
-							[52177] = 3,
-							[52188] = 3,
-						},
-						["numMade"] = 1,
-						["name"] = "红玉指套",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 73620,
-					},
-					[83802] = {
-						["mats"] = {
-							[76734] = 6,
-							[76138] = 2,
-							[52188] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "深海映像",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 122669,
-					},
-					[83804] = {
-						["mats"] = {
-							[76134] = 6,
-							[52188] = 1,
-							[76734] = 6,
-						},
-						["numMade"] = 1,
-						["name"] = "遗孀项链",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 122671,
-					},
-					[76518] = {
-						["mats"] = {
-							[76137] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "破碎紫翠玉",
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 107612,
-					},
-					[76879] = {
-						["mats"] = {
-							[76132] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "灰烬之源钻",
-						["group"] = 7,
-						["queued"] = 0,
-						["spellID"] = 107759,
-					},
 					[24098] = {
 						["mats"] = {
 							[22457] = 8,
@@ -1724,25 +1708,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 31066,
 					},
-					[32224] = {
+					[52492] = {
 						["mats"] = {
-							[32249] = 1,
+							[52177] = 3,
+							[52188] = 3,
 						},
 						["numMade"] = 1,
-						["name"] = "辐光海浪翡翠",
-						["group"] = 5,
+						["name"] = "红玉指套",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 39740,
-					},
-					[52093] = {
-						["mats"] = {
-							[52179] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "迅捷阿里锡黄晶",
-						["group"] = 3,
-						["queued"] = 0,
-						["spellID"] = 73234,
+						["spellID"] = 73620,
 					},
 					[21774] = {
 						["mats"] = {
@@ -1757,6 +1732,82 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 10,
 						["queued"] = 0,
 						["spellID"] = 26906,
+					},
+					[35693] = {
+						["mats"] = {
+							[32228] = 2,
+							[23449] = 8,
+							[23440] = 6,
+						},
+						["numMade"] = 1,
+						["name"] = "雕像 - 天蓝宝石海龟",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 46775,
+					},
+					[45812] = {
+						["mats"] = {
+							[41163] = 1,
+							[36933] = 3,
+						},
+						["numMade"] = 1,
+						["name"] = "翡翠项圈",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 64725,
+					},
+					[76879] = {
+						["mats"] = {
+							[76132] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "灰烬之源钻",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 107759,
+					},
+					[83799] = {
+						["mats"] = {
+							[76131] = 2,
+							[52188] = 1,
+							[76734] = 6,
+						},
+						["numMade"] = 1,
+						["name"] = "领主玺戒",
+						["enabled"] = true,
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 122666,
+					},
+					[39940] = {
+						["mats"] = {
+							[36926] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "守护者的暗影水晶",
+						["group"] = 4,
+						["queued"] = 0,
+						["spellID"] = 53871,
+					},
+					[52093] = {
+						["mats"] = {
+							[52179] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "迅捷阿里锡黄晶",
+						["group"] = 3,
+						["queued"] = 0,
+						["spellID"] = 73234,
+					},
+					[52109] = {
+						["mats"] = {
+							[52181] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "致命桂榴石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 73262,
 					},
 					[76528] = {
 						["mats"] = {
@@ -1799,16 +1850,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 53845,
 					},
-					[45812] = {
+					[30421] = {
 						["mats"] = {
-							[41163] = 1,
-							[36933] = 3,
+							[7910] = 1,
+							[21752] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "翡翠项圈",
+						["name"] = "红色毁灭指环",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 64725,
+						["spellID"] = 36525,
 					},
 					[21791] = {
 						["mats"] = {
@@ -1842,49 +1893,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 32874,
 					},
-					[83799] = {
+					[43244] = {
 						["mats"] = {
-							[76131] = 2,
-							[52188] = 1,
-							[76734] = 6,
+							[37701] = 2,
+							[36929] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "领主玺戒",
-						["enabled"] = true,
+						["name"] = "水晶茶晶石项链",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 122666,
-					},
-					[39940] = {
-						["mats"] = {
-							[36926] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "守护者的暗影水晶",
-						["group"] = 4,
-						["queued"] = 0,
-						["spellID"] = 53871,
-					},
-					[30421] = {
-						["mats"] = {
-							[7910] = 1,
-							[21752] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "红色毁灭指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 36525,
-					},
-					[20817] = {
-						["mats"] = {
-							[2841] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "青铜底座",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 25278,
+						["spellID"] = 58141,
 					},
 					[52121] = {
 						["mats"] = {
@@ -1895,17 +1913,6 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 5,
 						["queued"] = 0,
 						["spellID"] = 73274,
-					},
-					[30422] = {
-						["mats"] = {
-							[12800] = 1,
-							[21752] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "钻石专注戒指",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 36526,
 					},
 					[29160] = {
 						["mats"] = {
@@ -1918,6 +1925,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 34961,
 					},
+					[20817] = {
+						["mats"] = {
+							[2841] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "青铜底座",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 25278,
+					},
 					[24074] = {
 						["mats"] = {
 							[23445] = 1,
@@ -1928,6 +1945,41 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 10,
 						["queued"] = 0,
 						["spellID"] = 31048,
+					},
+					[24080] = {
+						["mats"] = {
+							[31079] = 4,
+							[21885] = 3,
+							[23449] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "冰霜氪金指环",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 31054,
+					},
+					[21775] = {
+						["mats"] = {
+							[12804] = 1,
+							[7076] = 1,
+							[21752] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "猛攻指环",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 26907,
+					},
+					[76562] = {
+						["mats"] = {
+							[76136] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "闪耀潘达利亚榴石",
+						["enabled"] = false,
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 107623,
 					},
 					[76529] = {
 						["mats"] = {
@@ -1949,48 +2001,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107626,
 					},
-					[24059] = {
+					[42413] = {
 						["mats"] = {
-							[23439] = 1,
+							[41163] = 2,
+							[36924] = 2,
+							[36933] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "高能黄晶玉",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 31107,
-					},
-					[45627] = {
-						["mats"] = {
-							[6037] = 8,
-						},
-						["numMade"] = 1,
-						["name"] = "真视护符",
+						["name"] = "雕像 - 蓝宝石猫头鹰",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 63743,
-					},
-					[76657] = {
-						["mats"] = {
-							[76139] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "稳固荒玉",
-						["enabled"] = false,
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 107746,
-					},
-					[35694] = {
-						["mats"] = {
-							[32231] = 2,
-							[22452] = 8,
-							[23449] = 8,
-						},
-						["numMade"] = 1,
-						["name"] = "雕像 - 氪金野猪",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 46776,
+						["spellID"] = 56202,
 					},
 					[83141] = {
 						["mats"] = {
@@ -2001,6 +2022,37 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 1,
 						["queued"] = 0,
 						["spellID"] = 122675,
+					},
+					[76657] = {
+						["mats"] = {
+							[76139] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "稳固荒玉",
+						["enabled"] = true,
+						["group"] = 5,
+						["queued"] = 0,
+						["spellID"] = 107746,
+					},
+					[32203] = {
+						["mats"] = {
+							[32228] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "风暴天蓝宝石",
+						["group"] = 2,
+						["queued"] = 0,
+						["spellID"] = 39718,
+					},
+					[52126] = {
+						["mats"] = {
+							[52182] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "强攻碧玉",
+						["group"] = 5,
+						["queued"] = 0,
+						["spellID"] = 73279,
 					},
 					[52493] = {
 						["mats"] = {
@@ -2017,36 +2069,36 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 73621,
 					},
-					[76658] = {
+					[24059] = {
 						["mats"] = {
-							[76140] = 1,
+							[23439] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "致命朱砂玛瑙",
-						["enabled"] = false,
+						["name"] = "高能黄晶玉",
 						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 107719,
+						["spellID"] = 31107,
 					},
-					[39910] = {
+					[39935] = {
 						["mats"] = {
-							[36917] = 1,
+							[36926] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "精准血石",
-						["group"] = 1,
+						["name"] = "狡诈暗影水晶",
+						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 54017,
+						["spellID"] = 53860,
 					},
-					[23101] = {
+					[76644] = {
 						["mats"] = {
-							[21929] = 1,
+							[76139] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "高能火榴石",
-						["group"] = 6,
+						["name"] = "光辉之荒玉",
+						["enabled"] = true,
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 28915,
+						["spellID"] = 106957,
 					},
 					[42337] = {
 						["mats"] = {
@@ -2059,17 +2111,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 56194,
 					},
-					[21775] = {
+					[32772] = {
 						["mats"] = {
-							[12804] = 1,
-							[7076] = 1,
-							[21752] = 1,
+							[24478] = 8,
+							[23447] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "猛攻指环",
+						["name"] = "耀眼的珍珠戒指",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 26907,
+						["spellID"] = 41414,
 					},
 					[20961] = {
 						["mats"] = {
@@ -2102,25 +2153,26 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 47054,
 					},
-					[52126] = {
+					[76530] = {
 						["mats"] = {
-							[52182] = 1,
+							[76130] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "强攻碧玉",
-						["group"] = 5,
+						["name"] = "抛光虎纹石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 73279,
+						["spellID"] = 107656,
 					},
-					[76562] = {
+					[95469] = {
 						["mats"] = {
-							[76136] = 1,
+							[76734] = 3,
 						},
 						["numMade"] = 1,
-						["name"] = "闪耀潘达利亚榴石",
-						["group"] = 1,
+						["name"] = "神龙之心",
+						["group"] = 10,
+						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 107623,
+						["spellID"] = 140050,
 					},
 					[24067] = {
 						["mats"] = {
@@ -2143,16 +2195,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 31049,
 					},
-					[32772] = {
+					[76658] = {
 						["mats"] = {
-							[24478] = 8,
-							[23447] = 2,
+							[76140] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "耀眼的珍珠戒指",
-						["group"] = 10,
+						["name"] = "致命朱砂玛瑙",
+						["enabled"] = false,
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 41414,
+						["spellID"] = 107719,
 					},
 					[39942] = {
 						["mats"] = {
@@ -2163,38 +2215,6 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 4,
 						["queued"] = 0,
 						["spellID"] = 53861,
-					},
-					[39935] = {
-						["mats"] = {
-							[36926] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "狡诈暗影水晶",
-						["group"] = 4,
-						["queued"] = 0,
-						["spellID"] = 53860,
-					},
-					[76644] = {
-						["mats"] = {
-							[76139] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "光辉之荒玉",
-						["enabled"] = true,
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 106957,
-					},
-					[32836] = {
-						["mats"] = {
-							[24479] = 1,
-							[27860] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "纯净暗影珍珠",
-						["group"] = 4,
-						["queued"] = 0,
-						["spellID"] = 41429,
 					},
 					[24123] = {
 						["mats"] = {
@@ -2209,6 +2229,37 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 31078,
 					},
+					[23101] = {
+						["mats"] = {
+							[21929] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "高能火榴石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 28915,
+					},
+					[32836] = {
+						["mats"] = {
+							[24479] = 1,
+							[27860] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "纯净暗影珍珠",
+						["group"] = 4,
+						["queued"] = 0,
+						["spellID"] = 41429,
+					},
+					[45627] = {
+						["mats"] = {
+							[6037] = 8,
+						},
+						["numMade"] = 1,
+						["name"] = "真视护符",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 63743,
+					},
 					[23109] = {
 						["mats"] = {
 							[23107] = 1,
@@ -2219,46 +2270,38 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28927,
 					},
-					[43248] = {
+					[42336] = {
 						["mats"] = {
-							[35624] = 2,
+							[37701] = 2,
+							[36917] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "石卫指环",
+						["name"] = "血石指环",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 58145,
+						["spellID"] = 56193,
 					},
-					[76502] = {
+					[32211] = {
 						["mats"] = {
-							[76133] = 1,
+							[32230] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "刚硬青金石",
-						["group"] = 2,
+						["name"] = "统御影歌紫玉",
+						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 107617,
+						["spellID"] = 39727,
 					},
-					[76530] = {
+					[30419] = {
 						["mats"] = {
-							[76130] = 1,
+							[1206] = 1,
+							[20817] = 1,
+							[2841] = 4,
 						},
 						["numMade"] = 1,
-						["name"] = "抛光虎纹石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107656,
-					},
-					[43247] = {
-						["mats"] = {
-							[35624] = 1,
-							[36932] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "斩杀之翡翠戒指",
+						["name"] = "魔光项链",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 58144,
+						["spellID"] = 36523,
 					},
 					[83142] = {
 						["mats"] = {
@@ -2269,6 +2312,16 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 3,
 						["queued"] = 0,
 						["spellID"] = 122682,
+					},
+					[35503] = {
+						["mats"] = {
+							[25868] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "灰烬之天火钻石",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 46601,
 					},
 					[76531] = {
 						["mats"] = {
@@ -2290,71 +2343,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107625,
 					},
-					[35759] = {
+					[42418] = {
 						["mats"] = {
-							[32249] = 1,
+							[41163] = 2,
+							[36933] = 2,
+							[36918] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "坚强海浪翡翠",
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 47053,
-					},
-					[30419] = {
-						["mats"] = {
-							[1206] = 1,
-							[20817] = 1,
-							[2841] = 4,
-						},
-						["numMade"] = 1,
-						["name"] = "魔光项链",
+						["name"] = "雕像 - 翡翠野猪",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 36523,
-					},
-					[76659] = {
-						["mats"] = {
-							[76140] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "诡诈朱砂玛瑙",
-						["enabled"] = true,
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107718,
-					},
-					[76532] = {
-						["mats"] = {
-							[76130] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "坚韧虎纹石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107663,
-					},
-					[21760] = {
-						["mats"] = {
-							[6037] = 4,
-							[7079] = 2,
-							[7909] = 2,
-							[7075] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "雕像 - 真银螃蟹",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 26881,
-					},
-					[32212] = {
-						["mats"] = {
-							[32230] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "狡诈影歌紫玉",
-						["group"] = 4,
-						["queued"] = 0,
-						["spellID"] = 39728,
+						["spellID"] = 56203,
 					},
 					[76660] = {
 						["mats"] = {
@@ -2362,10 +2361,31 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "高能朱砂玛瑙",
-						["enabled"] = false,
+						["enabled"] = true,
 						["group"] = 6,
 						["queued"] = 0,
 						["spellID"] = 107727,
+					},
+					[76659] = {
+						["mats"] = {
+							[76140] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "诡诈朱砂玛瑙",
+						["enabled"] = false,
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 107718,
+					},
+					[25880] = {
+						["mats"] = {
+							[2836] = 8,
+						},
+						["numMade"] = 1,
+						["name"] = "粗糙石像",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 32801,
 					},
 					[44063] = {
 						["mats"] = {
@@ -2379,6 +2399,26 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 59759,
 					},
+					[24036] = {
+						["mats"] = {
+							[23436] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "闪光红曜石",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 31091,
+					},
+					[35760] = {
+						["mats"] = {
+							[32231] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "鲁莽焚石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 47055,
+					},
 					[76884] = {
 						["mats"] = {
 							[76132] = 1,
@@ -2389,6 +2429,16 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 7,
 						["queued"] = 0,
 						["spellID"] = 107753,
+					},
+					[41381] = {
+						["mats"] = {
+							[41334] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "稳固之大地侵攻钻石",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 55402,
 					},
 					[42338] = {
 						["mats"] = {
@@ -2402,26 +2452,27 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 56195,
 					},
-					[42336] = {
+					[82775] = {
 						["mats"] = {
-							[37701] = 2,
-							[36917] = 1,
+							[76138] = 3,
+							[76061] = 3,
 						},
 						["numMade"] = 1,
-						["name"] = "血石指环",
+						["name"] = "墨玉猎豹",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 56193,
+						["spellID"] = 131898,
 					},
-					[35761] = {
+					[76661] = {
 						["mats"] = {
-							[32229] = 1,
+							[76140] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "迅捷狮眼石",
-						["group"] = 3,
+						["name"] = "铭文朱砂玛瑙",
+						["enabled"] = false,
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 47056,
+						["spellID"] = 107723,
 					},
 					[52095] = {
 						["mats"] = {
@@ -2443,27 +2494,28 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 122684,
 					},
-					[42418] = {
+					[21752] = {
 						["mats"] = {
-							[41163] = 2,
-							[36933] = 2,
-							[36918] = 1,
+							[12359] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 翡翠野猪",
+						["name"] = "瑟银底座",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 56203,
+						["spellID"] = 26880,
 					},
-					[76564] = {
+					[21760] = {
 						["mats"] = {
-							[76136] = 1,
+							[6037] = 4,
+							[7079] = 2,
+							[7909] = 2,
+							[7075] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "朴素潘达利亚榴石",
-						["group"] = 1,
+						["name"] = "雕像 - 真银螃蟹",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 107622,
+						["spellID"] = 26881,
 					},
 					[21768] = {
 						["mats"] = {
@@ -2473,19 +2525,20 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "蓝宝石徽记",
+						["enabled"] = false,
 						["group"] = 10,
 						["queued"] = 0,
 						["spellID"] = 26903,
 					},
-					[32196] = {
+					[32212] = {
 						["mats"] = {
-							[32227] = 1,
+							[32230] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "闪耀赤尖石",
-						["group"] = 1,
+						["name"] = "狡诈影歌紫玉",
+						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 39711,
+						["spellID"] = 39728,
 					},
 					[39927] = {
 						["mats"] = {
@@ -2509,16 +2562,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 26915,
 					},
-					[82775] = {
+					[93410] = {
 						["mats"] = {
-							[76138] = 3,
-							[76061] = 3,
+							[76734] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "墨玉猎豹",
-						["group"] = 10,
+						["name"] = "神秘蛟眼石",
+						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 131898,
+						["spellID"] = 136275,
 					},
 					[25896] = {
 						["mats"] = {
@@ -2530,35 +2582,36 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 32866,
 					},
-					[24036] = {
+					[76885] = {
 						["mats"] = {
-							[23436] = 1,
+							[76132] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "闪光红曜石",
-						["group"] = 1,
+						["name"] = "燃烧之源钻",
+						["group"] = 7,
 						["queued"] = 0,
-						["spellID"] = 31091,
+						["spellID"] = 107756,
 					},
-					[83145] = {
+					[52128] = {
 						["mats"] = {
-							[76734] = 1,
+							[52182] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "诡秘蛟眼石",
-						["group"] = 3,
+						["name"] = "导师的碧玉",
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 122679,
+						["spellID"] = 73281,
 					},
-					[93410] = {
+					[32774] = {
 						["mats"] = {
-							[76734] = 1,
+							[24479] = 1,
+							[31079] = 4,
 						},
 						["numMade"] = 1,
-						["name"] = "神秘蛟眼石",
-						["group"] = 4,
+						["name"] = "黑色明珠",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 136275,
+						["spellID"] = 41415,
 					},
 					[20818] = {
 						["mats"] = {
@@ -2583,26 +2636,25 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25305,
 					},
-					[76534] = {
+					[45054] = {
 						["mats"] = {
-							[76130] = 1,
+							[11754] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "轻巧虎纹石",
-						["group"] = 6,
+						["name"] = "棱彩黑钻石",
+						["group"] = 9,
 						["queued"] = 0,
-						["spellID"] = 107650,
+						["spellID"] = 62941,
 					},
-					[32774] = {
+					[76504] = {
 						["mats"] = {
-							[24479] = 1,
-							[31079] = 4,
+							[76133] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "黑色明珠",
-						["group"] = 10,
+						["name"] = "风暴青金石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 41415,
+						["spellID"] = 107621,
 					},
 					[83144] = {
 						["mats"] = {
@@ -2644,21 +2696,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28903,
 					},
-					[52304] = {
+					[24127] = {
 						["mats"] = {
-							[52177] = 3,
-							[52179] = 3,
-							[52181] = 3,
-							[52178] = 3,
-							[52180] = 3,
-							[52182] = 3,
+							[23447] = 2,
+							[23437] = 2,
+							[22457] = 4,
 						},
 						["numMade"] = 1,
-						["name"] = "烈焰棱镜",
+						["name"] = "雕像 - 水玉猫头鹰",
 						["group"] = 10,
-						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 73478,
+						["spellID"] = 31082,
 					},
 					[43249] = {
 						["mats"] = {
@@ -2677,7 +2725,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "精准源红石",
-						["enabled"] = true,
+						["enabled"] = false,
 						["group"] = 1,
 						["queued"] = 0,
 						["spellID"] = 107709,
@@ -2692,26 +2740,31 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25493,
 					},
-					[76887] = {
+					[52304] = {
 						["mats"] = {
-							[76132] = 1,
+							[52177] = 3,
+							[52179] = 3,
+							[52181] = 3,
+							[52178] = 3,
+							[52180] = 3,
+							[52182] = 3,
 						},
 						["numMade"] = 1,
-						["name"] = "疾驰之源钻",
-						["group"] = 7,
+						["name"] = "烈焰棱镜",
+						["group"] = 10,
+						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 107763,
+						["spellID"] = 73478,
 					},
-					[76886] = {
+					[93409] = {
 						["mats"] = {
-							[76132] = 1,
+							[76734] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "反冲之源钻",
-						["enabled"] = true,
-						["group"] = 7,
+						["name"] = "刺客的蛟眼石",
+						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 107767,
+						["spellID"] = 136274,
 					},
 					[28595] = {
 						["mats"] = {
@@ -2723,17 +2776,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 34590,
 					},
-					[24127] = {
+					[76887] = {
 						["mats"] = {
-							[23447] = 2,
-							[23437] = 2,
-							[22457] = 4,
+							[76132] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 水玉猫头鹰",
-						["group"] = 10,
+						["name"] = "疾驰之源钻",
+						["group"] = 7,
 						["queued"] = 0,
-						["spellID"] = 31082,
+						["spellID"] = 107763,
 					},
 					[42339] = {
 						["mats"] = {
@@ -2779,25 +2830,25 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 73241,
 					},
-					[32220] = {
+					[76502] = {
 						["mats"] = {
-							[32230] = 1,
+							[76133] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "反光影歌紫玉",
-						["group"] = 4,
+						["name"] = "刚硬青金石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 39736,
+						["spellID"] = 107617,
 					},
-					[52128] = {
+					[76534] = {
 						["mats"] = {
-							[52182] = 1,
+							[76130] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "导师的碧玉",
-						["group"] = 5,
+						["name"] = "轻巧虎纹石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 73281,
+						["spellID"] = 107650,
 					},
 					[24060] = {
 						["mats"] = {
@@ -2842,26 +2893,28 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107726,
 					},
-					[76694] = {
+					[24092] = {
 						["mats"] = {
-							[76131] = 1,
+							[21884] = 4,
+							[21885] = 6,
+							[23448] = 2,
+							[31079] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "闪耀源红石",
-						["enabled"] = true,
+						["name"] = "冰冷烈焰坠饰",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 31062,
+					},
+					[83147] = {
+						["mats"] = {
+							[76734] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "精准蛟眼石",
 						["group"] = 1,
 						["queued"] = 0,
-						["spellID"] = 107706,
-					},
-					[52113] = {
-						["mats"] = {
-							[52181] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "鲁莽桂榴石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 73266,
+						["spellID"] = 122683,
 					},
 					[39976] = {
 						["mats"] = {
@@ -2917,25 +2970,26 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28950,
 					},
-					[42420] = {
+					[76536] = {
 						["mats"] = {
-							[36926] = 1,
+							[76130] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "暗影水晶聚焦射线",
+						["name"] = "鲁莽虎纹石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 107658,
+					},
+					[82774] = {
+						["mats"] = {
+							[76139] = 3,
+							[76061] = 3,
+						},
+						["numMade"] = 1,
+						["name"] = "碧玉猫头鹰",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 56206,
-					},
-					[76504] = {
-						["mats"] = {
-							[76133] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "风暴青金石",
-						["group"] = 2,
-						["queued"] = 0,
-						["spellID"] = 107621,
+						["spellID"] = 131897,
 					},
 					[25881] = {
 						["mats"] = {
@@ -2977,40 +3031,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107642,
 					},
-					[21777] = {
-						["mats"] = {
-							[12360] = 2,
-							[12359] = 2,
-							[12364] = 2,
-							[12804] = 4,
-						},
-						["numMade"] = 1,
-						["name"] = "雕像 - 翡翠猫头鹰",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 26909,
-					},
-					[82774] = {
-						["mats"] = {
-							[76139] = 3,
-							[76061] = 3,
-						},
-						["numMade"] = 1,
-						["name"] = "碧玉猫头鹰",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 131897,
-					},
-					[76663] = {
-						["mats"] = {
-							[76140] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "坚毅朱砂玛瑙",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107729,
-					},
 					[83148] = {
 						["mats"] = {
 							[76734] = 1,
@@ -3020,18 +3040,6 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 2,
 						["queued"] = 0,
 						["spellID"] = 122678,
-					},
-					[75068] = {
-						["mats"] = {
-							[52195] = 4,
-							[52188] = 1,
-							[52326] = 8,
-						},
-						["numMade"] = 1,
-						["name"] = "恶毒琥珀指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 99540,
 					},
 					[24055] = {
 						["mats"] = {
@@ -3043,18 +3051,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 31103,
 					},
-					[31398] = {
+					[76663] = {
 						["mats"] = {
-							[31079] = 4,
-							[21885] = 6,
-							[23449] = 2,
-							[21884] = 6,
+							[76140] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "冰霜之眼",
-						["group"] = 10,
+						["name"] = "坚毅朱砂玛瑙",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 38503,
+						["spellID"] = 107729,
 					},
 					[29157] = {
 						["mats"] = {
@@ -3079,6 +3084,51 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 73247,
 					},
+					[76537] = {
+						["mats"] = {
+							[76130] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "凶猛虎纹石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 107651,
+					},
+					[31398] = {
+						["mats"] = {
+							[31079] = 4,
+							[21885] = 6,
+							[23449] = 2,
+							[21884] = 6,
+						},
+						["numMade"] = 1,
+						["name"] = "冰霜之眼",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 38503,
+					},
+					[41339] = {
+						["mats"] = {
+							[41266] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "迅捷之天焰钻石",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 55394,
+					},
+					[35702] = {
+						["mats"] = {
+							[23573] = 4,
+							[32230] = 2,
+							[22456] = 8,
+						},
+						["numMade"] = 1,
+						["name"] = "雕像 - 影歌猎豹",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 46778,
+					},
 					[42340] = {
 						["mats"] = {
 							[34052] = 1,
@@ -3091,15 +3141,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 56197,
 					},
-					[25498] = {
+					[90398] = {
 						["mats"] = {
-							[2835] = 8,
+							[76142] = 3,
 						},
 						["numMade"] = 1,
-						["name"] = "劣质石像",
+						["name"] = "探索棱镜",
 						["group"] = 10,
+						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 32259,
+						["spellID"] = 131695,
 					},
 					[52081] = {
 						["mats"] = {
@@ -3124,25 +3175,25 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 62242,
 					},
-					[83147] = {
+					[52113] = {
 						["mats"] = {
-							[76734] = 1,
+							[52181] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "精准蛟眼石",
-						["group"] = 1,
-						["queued"] = 0,
-						["spellID"] = 122683,
-					},
-					[76536] = {
-						["mats"] = {
-							[76130] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "鲁莽虎纹石",
+						["name"] = "鲁莽桂榴石",
 						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 107658,
+						["spellID"] = 73266,
+					},
+					[42420] = {
+						["mats"] = {
+							[36926] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "暗影水晶聚焦射线",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 56206,
 					},
 					[76568] = {
 						["mats"] = {
@@ -3154,16 +3205,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107640,
 					},
-					[90397] = {
+					[75067] = {
 						["mats"] = {
-							[76139] = 3,
+							[52328] = 8,
+							[52191] = 4,
+							[52188] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "探索棱镜",
+						["name"] = "恶毒蓝宝石之戒",
 						["group"] = 10,
-						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 131688,
+						["spellID"] = 99539,
 					},
 					[32508] = {
 						["mats"] = {
@@ -3193,19 +3245,20 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "朴素源红石",
+						["enabled"] = true,
 						["group"] = 1,
 						["queued"] = 0,
 						["spellID"] = 107705,
 					},
-					[41339] = {
+					[83149] = {
 						["mats"] = {
-							[41266] = 1,
+							[76734] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "迅捷之天焰钻石",
-						["group"] = 7,
+						["name"] = "火花蛟眼石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 55394,
+						["spellID"] = 122677,
 					},
 					[25897] = {
 						["mats"] = {
@@ -3217,27 +3270,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 32867,
 					},
-					[35702] = {
+					[76538] = {
 						["mats"] = {
-							[23573] = 4,
-							[32230] = 2,
-							[22456] = 8,
+							[76130] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 影歌猎豹",
-						["group"] = 10,
+						["name"] = "精锐虎纹石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 46778,
-					},
-					[52082] = {
-						["mats"] = {
-							[52177] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "精致红玉髓",
-						["group"] = 1,
-						["queued"] = 0,
-						["spellID"] = 73223,
+						["spellID"] = 107645,
 					},
 					[33143] = {
 						["mats"] = {
@@ -3248,6 +3289,18 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 3,
 						["queued"] = 0,
 						["spellID"] = 42591,
+					},
+					[20909] = {
+						["mats"] = {
+							[20817] = 2,
+							[5637] = 2,
+							[3575] = 8,
+						},
+						["numMade"] = 1,
+						["name"] = "野蛮铁项圈",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 25498,
 					},
 					[76888] = {
 						["mats"] = {
@@ -3269,25 +3322,25 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25317,
 					},
-					[32221] = {
+					[52082] = {
 						["mats"] = {
-							[32230] = 1,
+							[52177] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "隐秘影歌紫玉",
+						["name"] = "精致红玉髓",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 73223,
+					},
+					[52098] = {
+						["mats"] = {
+							[52180] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "永恒夜之石",
 						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 39737,
-					},
-					[76538] = {
-						["mats"] = {
-							[76130] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "精锐虎纹石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107645,
+						["spellID"] = 73243,
 					},
 					[76505] = {
 						["mats"] = {
@@ -3320,28 +3373,27 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107641,
 					},
-					[90398] = {
+					[75068] = {
 						["mats"] = {
-							[76142] = 3,
+							[52195] = 4,
+							[52188] = 1,
+							[52326] = 8,
 						},
 						["numMade"] = 1,
-						["name"] = "探索棱镜",
+						["name"] = "恶毒琥珀指环",
 						["group"] = 10,
-						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 131695,
+						["spellID"] = 99540,
 					},
-					[20909] = {
+					[52114] = {
 						["mats"] = {
-							[20817] = 2,
-							[5637] = 2,
-							[3575] = 8,
+							[52181] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "野蛮铁项圈",
-						["group"] = 10,
+						["name"] = "娴熟之肉桂石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 25498,
+						["spellID"] = 73267,
 					},
 					[76665] = {
 						["mats"] = {
@@ -3375,49 +3427,48 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25490,
 					},
-					[24077] = {
+					[42421] = {
 						["mats"] = {
-							[23446] = 2,
-							[31079] = 1,
+							[36926] = 1,
+							[36932] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "厚重精金项链",
+						["name"] = "暗影翡翠聚焦射线",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 31051,
+						["spellID"] = 56208,
 					},
-					[24093] = {
+					[76698] = {
 						["mats"] = {
-							[21884] = 6,
-							[23448] = 2,
-							[21885] = 4,
-							[31079] = 1,
+							[76142] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "融雪坠饰",
+						["name"] = "诡秘日曜石",
+						["group"] = 3,
+						["queued"] = 0,
+						["spellID"] = 107714,
+					},
+					[76545] = {
+						["mats"] = {
+							[76130] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "肆意虎纹石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 107667,
+					},
+					[24125] = {
+						["mats"] = {
+							[23112] = 4,
+							[23440] = 2,
+							[23449] = 4,
+						},
+						["numMade"] = 1,
+						["name"] = "雕像 - 黎明石螃蟹",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 31063,
-					},
-					[35503] = {
-						["mats"] = {
-							[25868] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "灰烬之天火钻石",
-						["group"] = 7,
-						["queued"] = 0,
-						["spellID"] = 46601,
-					},
-					[23103] = {
-						["mats"] = {
-							[23079] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "辐光翠榄石",
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 28916,
+						["spellID"] = 31080,
 					},
 					[42341] = {
 						["mats"] = {
@@ -3463,26 +3514,25 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 56205,
 					},
-					[52114] = {
+					[76506] = {
 						["mats"] = {
-							[52181] = 1,
+							[76133] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "娴熟之肉桂石",
-						["group"] = 6,
+						["name"] = "致密青金石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 73267,
+						["spellID"] = 107619,
 					},
-					[42421] = {
+					[24053] = {
 						["mats"] = {
-							[36926] = 1,
-							[36932] = 1,
+							[23440] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "暗影翡翠聚焦射线",
-						["group"] = 10,
+						["name"] = "秘法黎明石",
+						["group"] = 3,
 						["queued"] = 0,
-						["spellID"] = 56208,
+						["spellID"] = 31101,
 					},
 					[24061] = {
 						["mats"] = {
@@ -3505,15 +3555,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 131691,
 					},
-					[35315] = {
+					[24077] = {
 						["mats"] = {
-							[23440] = 1,
+							[23446] = 2,
+							[31079] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "迅捷黎明石",
-						["group"] = 3,
+						["name"] = "厚重精金项链",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 46403,
+						["spellID"] = 31051,
 					},
 					[32776] = {
 						["mats"] = {
@@ -3528,25 +3579,30 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 41418,
 					},
-					[76698] = {
+					[24093] = {
 						["mats"] = {
-							[76142] = 1,
+							[21884] = 6,
+							[23448] = 2,
+							[21885] = 4,
+							[31079] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "诡秘日曜石",
-						["group"] = 3,
+						["name"] = "融雪坠饰",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 107714,
+						["spellID"] = 31063,
 					},
-					[32205] = {
+					[21779] = {
 						["mats"] = {
-							[32229] = 1,
+							[7078] = 4,
+							[12803] = 4,
+							[21929] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "圆润狮眼石",
-						["group"] = 3,
+						["name"] = "自然火焰指环",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 39720,
+						["spellID"] = 26916,
 					},
 					[39978] = {
 						["mats"] = {
@@ -3568,17 +3624,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28905,
 					},
-					[24125] = {
+					[23103] = {
 						["mats"] = {
-							[23112] = 4,
-							[23440] = 2,
-							[23449] = 4,
+							[23079] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 黎明石螃蟹",
-						["group"] = 10,
+						["name"] = "辐光翠榄石",
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 31080,
+						["spellID"] = 28916,
 					},
 					[23111] = {
 						["mats"] = {
@@ -3590,37 +3644,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28936,
 					},
-					[76890] = {
+					[23119] = {
 						["mats"] = {
-							[76132] = 1,
+							[23117] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "毁灭之源钻",
-						["group"] = 7,
+						["name"] = "火花碧月石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 107757,
-					},
-					[76545] = {
-						["mats"] = {
-							[76130] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "肆意虎纹石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107667,
-					},
-					[83801] = {
-						["mats"] = {
-							[76140] = 2,
-							[52188] = 1,
-							[76734] = 6,
-						},
-						["numMade"] = 1,
-						["name"] = "血之指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 122668,
+						["spellID"] = 28953,
 					},
 					[76896] = {
 						["mats"] = {
@@ -3631,6 +3663,28 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 7,
 						["queued"] = 0,
 						["spellID"] = 107762,
+					},
+					[76636] = {
+						["mats"] = {
+							[76138] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "刚硬河心石",
+						["enabled"] = true,
+						["group"] = 2,
+						["queued"] = 0,
+						["spellID"] = 106947,
+					},
+					[20821] = {
+						["mats"] = {
+							[774] = 2,
+							[2840] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "孔雀石镶饰戒指",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 25283,
 					},
 					[76507] = {
 						["mats"] = {
@@ -3652,15 +3706,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107654,
 					},
-					[76892] = {
+					[76640] = {
 						["mats"] = {
-							[76132] = 1,
+							[76139] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "神秘之源钻",
-						["group"] = 7,
+						["name"] = "迷雾荒玉",
+						["enabled"] = false,
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 107760,
+						["spellID"] = 106953,
 					},
 					[90400] = {
 						["mats"] = {
@@ -3704,26 +3759,27 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107712,
 					},
-					[20821] = {
+					[75071] = {
 						["mats"] = {
-							[774] = 2,
-							[2840] = 2,
+							[52190] = 4,
+							[52327] = 8,
+							[52188] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "孔雀石镶饰戒指",
+						["name"] = "恶毒红宝石徽记",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 25283,
+						["spellID"] = 99541,
 					},
-					[39915] = {
+					[25899] = {
 						["mats"] = {
-							[36923] = 1,
+							[25867] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "刚硬玉髓石",
-						["group"] = 2,
+						["name"] = "蛮力之大地风暴钻石",
+						["group"] = 7,
 						["queued"] = 0,
-						["spellID"] = 53854,
+						["spellID"] = 32869,
 					},
 					[31399] = {
 						["mats"] = {
@@ -3738,28 +3794,25 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 38504,
 					},
-					[76700] = {
+					[39915] = {
 						["mats"] = {
-							[76142] = 1,
+							[36923] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "断裂日曜石",
-						["enabled"] = false,
-						["group"] = 3,
+						["name"] = "刚硬玉髓石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 107710,
+						["spellID"] = 53854,
 					},
-					[21779] = {
+					[25883] = {
 						["mats"] = {
-							[7078] = 4,
-							[12803] = 4,
-							[21929] = 1,
+							[12365] = 10,
 						},
 						["numMade"] = 1,
-						["name"] = "自然火焰指环",
+						["name"] = "厚重石像",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 26916,
+						["spellID"] = 32809,
 					},
 					[33144] = {
 						["mats"] = {
@@ -3771,39 +3824,39 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 42593,
 					},
-					[25899] = {
+					[76672] = {
 						["mats"] = {
-							[25867] = 1,
+							[76140] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "蛮力之大地风暴钻石",
-						["group"] = 7,
+						["name"] = "机敏朱砂玛瑙",
+						["enabled"] = true,
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 32869,
+						["spellID"] = 107716,
 					},
-					[83087] = {
+					[52083] = {
 						["mats"] = {
-							[76131] = 20,
-							[83092] = 1,
-							[72104] = 4,
-							[76734] = 2,
+							[52177] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "红宝石猎豹",
+						["name"] = "闪光红玉髓",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 73224,
+					},
+					[83794] = {
+						["mats"] = {
+							[76137] = 1,
+							[76135] = 1,
+							[52188] = 1,
+							[76136] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "影火项链",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 121841,
-					},
-					[76640] = {
-						["mats"] = {
-							[76139] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "迷雾荒玉",
-						["enabled"] = false,
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 106953,
+						["spellID"] = 122662,
 					},
 					[76508] = {
 						["mats"] = {
@@ -3825,15 +3878,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107646,
 					},
-					[25883] = {
+					[39947] = {
 						["mats"] = {
-							[12365] = 10,
+							[36929] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "厚重石像",
-						["group"] = 10,
+						["name"] = "铭文茶晶石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 32809,
+						["spellID"] = 53872,
 					},
 					[90401] = {
 						["mats"] = {
@@ -3846,16 +3899,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 131686,
 					},
-					[76636] = {
+					[21778] = {
 						["mats"] = {
-							[76138] = 1,
+							[12363] = 1,
+							[12662] = 1,
+							[12808] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "刚硬河心石",
-						["enabled"] = true,
-						["group"] = 2,
+						["name"] = "苦痛暗影之戒",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 106947,
+						["spellID"] = 26910,
 					},
 					[76668] = {
 						["mats"] = {
@@ -3863,65 +3917,33 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "鲁莽朱砂玛瑙",
-						["enabled"] = false,
+						["enabled"] = true,
 						["group"] = 6,
 						["queued"] = 0,
 						["spellID"] = 107728,
 					},
-					[39947] = {
+					[25882] = {
 						["mats"] = {
-							[36929] = 1,
+							[7912] = 10,
 						},
 						["numMade"] = 1,
-						["name"] = "铭文茶晶石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 53872,
-					},
-					[76672] = {
-						["mats"] = {
-							[76140] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "机敏朱砂玛瑙",
-						["enabled"] = false,
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107716,
-					},
-					[83794] = {
-						["mats"] = {
-							[76137] = 1,
-							[76135] = 1,
-							[52188] = 1,
-							[76136] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "影火项链",
+						["name"] = "坚固石像",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 122662,
+						["spellID"] = 32808,
 					},
-					[52307] = {
+					[83798] = {
 						["mats"] = {
+							[76734] = 6,
+							[76135] = 6,
 							[52188] = 1,
-							[52179] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "阿里锡黄晶坠饰",
+						["name"] = "劣生石影戒",
+						["enabled"] = true,
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 73496,
-					},
-					[83152] = {
-						["mats"] = {
-							[76734] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "闪光蛟眼石",
-						["group"] = 1,
-						["queued"] = 0,
-						["spellID"] = 122685,
+						["spellID"] = 122665,
 					},
 					[21755] = {
 						["mats"] = {
@@ -3934,6 +3956,27 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 26876,
 					},
+					[76512] = {
+						["mats"] = {
+							[76137] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "禅悟之紫翠玉",
+						["group"] = 5,
+						["queued"] = 0,
+						["spellID"] = 107616,
+					},
+					[52307] = {
+						["mats"] = {
+							[52188] = 1,
+							[52179] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "阿里锡黄晶坠饰",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 73496,
+					},
 					[20820] = {
 						["mats"] = {
 							[20817] = 1,
@@ -3945,6 +3988,16 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 10,
 						["queued"] = 0,
 						["spellID"] = 25284,
+					},
+					[76892] = {
+						["mats"] = {
+							[76132] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "神秘之源钻",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 107760,
 					},
 					[20828] = {
 						["mats"] = {
@@ -3970,15 +4023,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 121844,
 					},
-					[76512] = {
+					[83152] = {
 						["mats"] = {
-							[76137] = 1,
+							[76734] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "禅悟之紫翠玉",
-						["group"] = 5,
+						["name"] = "闪光蛟眼石",
+						["group"] = 1,
 						["queued"] = 0,
-						["spellID"] = 107616,
+						["spellID"] = 122685,
 					},
 					[76509] = {
 						["mats"] = {
@@ -4011,16 +4064,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107766,
 					},
-					[45808] = {
+					[32206] = {
 						["mats"] = {
-							[41163] = 2,
-							[36927] = 2,
+							[32228] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "符文法力指环",
-						["group"] = 10,
+						["name"] = "刚硬天蓝宝石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 64727,
+						["spellID"] = 39721,
 					},
 					[76637] = {
 						["mats"] = {
@@ -4028,7 +4080,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "风暴河心石",
-						["enabled"] = false,
+						["enabled"] = true,
 						["group"] = 2,
 						["queued"] = 0,
 						["spellID"] = 106948,
@@ -4054,38 +4106,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107711,
 					},
-					[83798] = {
+					[93405] = {
 						["mats"] = {
-							[76734] = 6,
-							[76135] = 6,
-							[52188] = 1,
+							[76734] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "劣生石影戒",
-						["enabled"] = true,
-						["group"] = 10,
-						["queued"] = 1,
-						["spellID"] = 122665,
-					},
-					[52084] = {
-						["mats"] = {
-							[52177] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "闪耀红玉髓",
-						["group"] = 1,
+						["name"] = "透明蛟眼石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 73225,
-					},
-					[34220] = {
-						["mats"] = {
-							[25868] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "混乱之天火钻石",
-						["group"] = 7,
-						["queued"] = 0,
-						["spellID"] = 44794,
+						["spellID"] = 136270,
 					},
 					[35700] = {
 						["mats"] = {
@@ -4099,15 +4128,36 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 46777,
 					},
-					[32206] = {
+					[24030] = {
 						["mats"] = {
-							[32228] = 1,
+							[23436] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "刚硬天蓝宝石",
-						["group"] = 2,
+						["name"] = "闪耀红曜石",
+						["group"] = 1,
 						["queued"] = 0,
-						["spellID"] = 39721,
+						["spellID"] = 31088,
+					},
+					[52306] = {
+						["mats"] = {
+							[52188] = 1,
+							[52182] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "碧玉指环",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 73494,
+					},
+					[24054] = {
+						["mats"] = {
+							[23441] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "统御夜目石",
+						["group"] = 4,
+						["queued"] = 0,
+						["spellID"] = 31102,
 					},
 					[76893] = {
 						["mats"] = {
@@ -4115,7 +4165,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "冷酷之源钻",
-						["enabled"] = true,
+						["enabled"] = false,
 						["group"] = 7,
 						["queued"] = 0,
 						["spellID"] = 107765,
@@ -4130,66 +4180,18 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 39713,
 					},
-					[24030] = {
+					[83089] = {
 						["mats"] = {
-							[23436] = 1,
+							[76734] = 2,
+							[83092] = 1,
+							[76142] = 20,
+							[72104] = 4,
 						},
 						["numMade"] = 1,
-						["name"] = "闪耀红曜石",
-						["group"] = 1,
+						["name"] = "日长石猎豹",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 31088,
-					},
-					[76542] = {
-						["mats"] = {
-							[76130] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "娴熟之虎纹石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 107661,
-					},
-					[32222] = {
-						["mats"] = {
-							[32231] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "致命焚石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 39738,
-					},
-					[24054] = {
-						["mats"] = {
-							[23441] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "统御夜目石",
-						["group"] = 4,
-						["queued"] = 0,
-						["spellID"] = 31102,
-					},
-					[76638] = {
-						["mats"] = {
-							[76138] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "火花河心石",
-						["enabled"] = false,
-						["group"] = 2,
-						["queued"] = 0,
-						["spellID"] = 106949,
-					},
-					[39900] = {
-						["mats"] = {
-							[36917] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "朴素血石",
-						["group"] = 1,
-						["queued"] = 0,
-						["spellID"] = 53831,
+						["spellID"] = 121843,
 					},
 					[24078] = {
 						["mats"] = {
@@ -4202,13 +4204,67 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 31052,
 					},
+					[32222] = {
+						["mats"] = {
+							[32231] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "致命焚石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 39738,
+					},
+					[76542] = {
+						["mats"] = {
+							[76130] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "娴熟之虎纹石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 107661,
+					},
+					[83793] = {
+						["mats"] = {
+							[76134] = 1,
+							[52188] = 1,
+							[76130] = 1,
+							[76133] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "雕饰指环",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 122661,
+					},
+					[39900] = {
+						["mats"] = {
+							[36917] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "朴素血石",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 53831,
+					},
+					[76638] = {
+						["mats"] = {
+							[76138] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "火花河心石",
+						["enabled"] = false,
+						["group"] = 2,
+						["queued"] = 0,
+						["spellID"] = 106949,
+					},
 					[76670] = {
 						["mats"] = {
 							[76140] = 1,
 						},
 						["numMade"] = 1,
 						["name"] = "精锐朱砂玛瑙",
-						["enabled"] = false,
+						["enabled"] = true,
 						["group"] = 6,
 						["queued"] = 0,
 						["spellID"] = 107715,
@@ -4243,15 +4299,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 53922,
 					},
-					[23120] = {
+					[52308] = {
 						["mats"] = {
-							[23117] = 1,
+							[52188] = 1,
+							[52181] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "风暴碧月石",
-						["group"] = 2,
+						["name"] = "桂榴石指环",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 28955,
+						["spellID"] = 73495,
 					},
 					[24126] = {
 						["mats"] = {
@@ -4265,18 +4322,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 31081,
 					},
-					[83793] = {
+					[30825] = {
 						["mats"] = {
-							[76134] = 1,
-							[52188] = 1,
-							[76130] = 1,
-							[76133] = 1,
+							[23447] = 2,
+							[22457] = 8,
 						},
 						["numMade"] = 1,
-						["name"] = "雕饰指环",
+						["name"] = "奥术护盾指环",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 122661,
+						["spellID"] = 37855,
 					},
 					[76894] = {
 						["mats"] = {
@@ -4284,6 +4339,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "遗忘之源钻",
+						["enabled"] = true,
 						["group"] = 7,
 						["queued"] = 0,
 						["spellID"] = 107764,
@@ -4311,15 +4367,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 121842,
 					},
-					[76543] = {
+					[23120] = {
 						["mats"] = {
-							[76130] = 1,
+							[23117] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "透明虎纹石",
-						["group"] = 6,
+						["name"] = "风暴碧月石",
+						["group"] = 2,
 						["queued"] = 0,
-						["spellID"] = 107655,
+						["spellID"] = 28955,
 					},
 					[76511] = {
 						["mats"] = {
@@ -4331,17 +4387,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107599,
 					},
-					[30825] = {
-						["mats"] = {
-							[23447] = 2,
-							[22457] = 8,
-						},
-						["numMade"] = 1,
-						["name"] = "奥术护盾指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 37855,
-					},
 					[93406] = {
 						["mats"] = {
 							[76734] = 1,
@@ -4351,6 +4396,16 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 6,
 						["queued"] = 0,
 						["spellID"] = 136272,
+					},
+					[76543] = {
+						["mats"] = {
+							[76130] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "透明虎纹石",
+						["group"] = 6,
+						["queued"] = 0,
+						["spellID"] = 107655,
 					},
 					[75074] = {
 						["mats"] = {
@@ -4386,38 +4441,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 64728,
 					},
-					[52308] = {
-						["mats"] = {
-							[52188] = 1,
-							[52181] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "桂榴石指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 73495,
-					},
-					[52306] = {
-						["mats"] = {
-							[52188] = 1,
-							[52182] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "碧玉指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 73494,
-					},
-					[93405] = {
-						["mats"] = {
-							[76734] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "透明蛟眼石",
-						["group"] = 6,
-						["queued"] = 0,
-						["spellID"] = 136270,
-					},
 					[76510] = {
 						["mats"] = {
 							[76137] = 1,
@@ -4427,6 +4450,16 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 5,
 						["queued"] = 0,
 						["spellID"] = 107611,
+					},
+					[52084] = {
+						["mats"] = {
+							[52177] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "闪耀红玉髓",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 73225,
 					},
 					[20964] = {
 						["mats"] = {
@@ -4439,18 +4472,36 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 26874,
 					},
-					[83089] = {
+					[34220] = {
 						["mats"] = {
-							[76734] = 2,
-							[83092] = 1,
-							[76142] = 20,
-							[72104] = 4,
+							[25868] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "日长石猎豹",
+						["name"] = "混乱之天火钻石",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 44794,
+					},
+					[41397] = {
+						["mats"] = {
+							[41334] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "强能之大地侵攻钻石",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 55399,
+					},
+					[45808] = {
+						["mats"] = {
+							[41163] = 2,
+							[36927] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "符文法力指环",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 121843,
+						["spellID"] = 64727,
 					},
 					[76895] = {
 						["mats"] = {
@@ -4462,15 +4513,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107754,
 					},
-					[41397] = {
+					[76541] = {
 						["mats"] = {
-							[41334] = 1,
+							[76130] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "强能之大地侵攻钻石",
-						["group"] = 7,
+						["name"] = "优质虎纹石",
+						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 55399,
+						["spellID"] = 107652,
 					},
 					[52085] = {
 						["mats"] = {
@@ -4512,15 +4563,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107665,
 					},
-					[76541] = {
+					[76700] = {
 						["mats"] = {
-							[76130] = 1,
+							[76142] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "优质虎纹石",
-						["group"] = 6,
+						["name"] = "断裂日曜石",
+						["enabled"] = true,
+						["group"] = 3,
 						["queued"] = 0,
-						["spellID"] = 107652,
+						["spellID"] = 107710,
 					},
 					[75075] = {
 						["mats"] = {
@@ -4585,51 +4637,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 53923,
 					},
-					[25882] = {
-						["mats"] = {
-							[7912] = 10,
-						},
-						["numMade"] = 1,
-						["name"] = "坚固石像",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 32808,
-					},
-					[21778] = {
-						["mats"] = {
-							[12363] = 1,
-							[12662] = 1,
-							[12808] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "苦痛暗影之戒",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 26910,
-					},
-					[75071] = {
-						["mats"] = {
-							[52190] = 4,
-							[52327] = 8,
-							[52188] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "恶毒红宝石徽记",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 99541,
-					},
-					[52309] = {
-						["mats"] = {
-							[52188] = 1,
-							[52180] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "夜之石颈环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 73497,
-					},
 					[83151] = {
 						["mats"] = {
 							[76734] = 1,
@@ -4639,6 +4646,19 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 1,
 						["queued"] = 0,
 						["spellID"] = 122674,
+					},
+					[83087] = {
+						["mats"] = {
+							[76131] = 20,
+							[83092] = 1,
+							[72104] = 4,
+							[76734] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "红宝石猎豹",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 121841,
 					},
 					[83796] = {
 						["mats"] = {
@@ -4652,6 +4672,17 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 122664,
 					},
+					[52309] = {
+						["mats"] = {
+							[52188] = 1,
+							[52180] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "夜之石颈环",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 73497,
+					},
 					[83150] = {
 						["mats"] = {
 							[76734] = 1,
@@ -4661,6 +4692,29 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 1,
 						["queued"] = 0,
 						["spellID"] = 122676,
+					},
+					[83801] = {
+						["mats"] = {
+							[76140] = 2,
+							[52188] = 1,
+							[76734] = 6,
+						},
+						["numMade"] = 1,
+						["name"] = "血之指环",
+						["enabled"] = true,
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 122668,
+					},
+					[76890] = {
+						["mats"] = {
+							[76132] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "毁灭之源钻",
+						["group"] = 7,
+						["queued"] = 0,
+						["spellID"] = 107757,
 					},
 					[76513] = {
 						["mats"] = {
@@ -4682,15 +4736,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 136273,
 					},
-					[23119] = {
+					[33782] = {
 						["mats"] = {
-							[23117] = 1,
+							[23437] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "火花碧月石",
-						["group"] = 2,
+						["name"] = "稳固水玉",
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 28953,
+						["spellID"] = 43493,
 					},
 					[90406] = {
 						["mats"] = {
@@ -4718,20 +4772,20 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "优质朱砂玛瑙",
-						["enabled"] = true,
+						["enabled"] = false,
 						["group"] = 6,
 						["queued"] = 0,
 						["spellID"] = 107722,
 					},
-					[33782] = {
+					[32205] = {
 						["mats"] = {
-							[23437] = 1,
+							[32229] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "稳固水玉",
-						["group"] = 5,
+						["name"] = "圆润狮眼石",
+						["group"] = 3,
 						["queued"] = 0,
-						["spellID"] = 43493,
+						["spellID"] = 39720,
 					},
 					[21931] = {
 						["mats"] = {
@@ -4744,35 +4798,35 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 26925,
 					},
-					[24053] = {
+					[35315] = {
 						["mats"] = {
 							[23440] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "秘法黎明石",
+						["name"] = "迅捷黎明石",
 						["group"] = 3,
 						["queued"] = 0,
-						["spellID"] = 31101,
+						["spellID"] = 46403,
 					},
-					[76506] = {
+					[25498] = {
 						["mats"] = {
-							[76133] = 1,
+							[2835] = 8,
 						},
 						["numMade"] = 1,
-						["name"] = "致密青金石",
-						["group"] = 2,
+						["name"] = "劣质石像",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 107619,
+						["spellID"] = 32259,
 					},
-					[52098] = {
+					[32221] = {
 						["mats"] = {
-							[52180] = 1,
+							[32230] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "永恒夜之石",
+						["name"] = "隐秘影歌紫玉",
 						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 73243,
+						["spellID"] = 39737,
 					},
 					[33131] = {
 						["mats"] = {
@@ -4845,25 +4899,29 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107662,
 					},
-					[76537] = {
+					[21777] = {
 						["mats"] = {
-							[76130] = 1,
+							[12360] = 2,
+							[12359] = 2,
+							[12364] = 2,
+							[12804] = 4,
 						},
 						["numMade"] = 1,
-						["name"] = "凶猛虎纹石",
-						["group"] = 6,
+						["name"] = "雕像 - 翡翠猫头鹰",
+						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 107651,
+						["spellID"] = 26909,
 					},
-					[83149] = {
+					[90397] = {
 						["mats"] = {
-							[76734] = 1,
+							[76139] = 3,
 						},
 						["numMade"] = 1,
-						["name"] = "火花蛟眼石",
-						["group"] = 2,
+						["name"] = "探索棱镜",
+						["group"] = 10,
+						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 122677,
+						["spellID"] = 131688,
 					},
 					[39918] = {
 						["mats"] = {
@@ -4885,17 +4943,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 53859,
 					},
-					[75067] = {
+					[35761] = {
 						["mats"] = {
-							[52328] = 8,
-							[52191] = 4,
-							[52188] = 1,
+							[32229] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "恶毒蓝宝石之戒",
-						["group"] = 10,
+						["name"] = "迅捷狮眼石",
+						["group"] = 3,
 						["queued"] = 0,
-						["spellID"] = 99539,
+						["spellID"] = 47056,
 					},
 					[39966] = {
 						["mats"] = {
@@ -4917,15 +4973,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 73271,
 					},
-					[93409] = {
+					[76886] = {
 						["mats"] = {
-							[76734] = 1,
+							[76132] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "刺客的蛟眼石",
-						["group"] = 4,
+						["name"] = "反冲之源钻",
+						["enabled"] = true,
+						["group"] = 7,
 						["queued"] = 0,
-						["spellID"] = 136274,
+						["spellID"] = 107767,
 					},
 					[23105] = {
 						["mats"] = {
@@ -4937,35 +4994,16 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 28918,
 					},
-					[32211] = {
+					[76694] = {
 						["mats"] = {
-							[32230] = 1,
+							[76131] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "统御影歌紫玉",
-						["group"] = 4,
+						["name"] = "闪耀源红石",
+						["enabled"] = true,
+						["group"] = 1,
 						["queued"] = 0,
-						["spellID"] = 39727,
-					},
-					[76514] = {
-						["mats"] = {
-							[76137] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "鲜亮紫翠玉",
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 107615,
-					},
-					[45054] = {
-						["mats"] = {
-							[11754] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "棱彩黑钻石",
-						["group"] = 9,
-						["queued"] = 0,
-						["spellID"] = 62941,
+						["spellID"] = 107706,
 					},
 					[39912] = {
 						["mats"] = {
@@ -4987,6 +5025,26 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107644,
 					},
+					[83145] = {
+						["mats"] = {
+							[76734] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "诡秘蛟眼石",
+						["group"] = 3,
+						["queued"] = 0,
+						["spellID"] = 122679,
+					},
+					[32196] = {
+						["mats"] = {
+							[32227] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "闪耀赤尖石",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 39711,
+					},
 					[76515] = {
 						["mats"] = {
 							[76137] = 1,
@@ -5007,15 +5065,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107660,
 					},
-					[35760] = {
+					[76514] = {
 						["mats"] = {
-							[32231] = 1,
+							[76137] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "鲁莽焚石",
-						["group"] = 6,
+						["name"] = "鲜亮紫翠玉",
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 47055,
+						["spellID"] = 107615,
 					},
 					[75078] = {
 						["mats"] = {
@@ -5057,69 +5115,66 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107725,
 					},
-					[76885] = {
+					[32220] = {
 						["mats"] = {
-							[76132] = 1,
+							[32230] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "燃烧之源钻",
-						["group"] = 7,
+						["name"] = "反光影歌紫玉",
+						["group"] = 4,
 						["queued"] = 0,
-						["spellID"] = 107756,
+						["spellID"] = 39736,
 					},
-					[41381] = {
+					[76692] = {
 						["mats"] = {
-							[41334] = 1,
+							[76131] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "稳固之大地侵攻钻石",
-						["group"] = 7,
-						["queued"] = 0,
-						["spellID"] = 55402,
-					},
-					[76661] = {
-						["mats"] = {
-							[76140] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "铭文朱砂玛瑙",
+						["name"] = "精致源红石",
 						["enabled"] = true,
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 107707,
+					},
+					[76564] = {
+						["mats"] = {
+							[76136] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "朴素潘达利亚榴石",
+						["group"] = 1,
+						["queued"] = 0,
+						["spellID"] = 107622,
+					},
+					[76532] = {
+						["mats"] = {
+							[76130] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "坚韧虎纹石",
 						["group"] = 6,
 						["queued"] = 0,
-						["spellID"] = 107723,
+						["spellID"] = 107663,
 					},
-					[41375] = {
+					[35759] = {
 						["mats"] = {
-							[41266] = 1,
+							[32249] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "持久之天焰钻石",
-						["group"] = 7,
+						["name"] = "坚强海浪翡翠",
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 55386,
+						["spellID"] = 47053,
 					},
-					[24092] = {
+					[33140] = {
 						["mats"] = {
-							[21884] = 4,
-							[21885] = 6,
-							[23448] = 2,
-							[31079] = 1,
+							[23440] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "冰冷烈焰坠饰",
-						["group"] = 10,
+						["name"] = "琥珀之血",
+						["group"] = 3,
 						["queued"] = 0,
-						["spellID"] = 31062,
-					},
-					[25880] = {
-						["mats"] = {
-							[2836] = 8,
-						},
-						["numMade"] = 1,
-						["name"] = "粗糙石像",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 32801,
+						["spellID"] = 42592,
 					},
 					[35703] = {
 						["mats"] = {
@@ -5133,15 +5188,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 46779,
 					},
-					[21752] = {
+					[43248] = {
 						["mats"] = {
-							[12359] = 1,
+							[35624] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "瑟银底座",
+						["name"] = "石卫指环",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 26880,
+						["spellID"] = 58145,
 					},
 					[52087] = {
 						["mats"] = {
@@ -5153,15 +5208,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 73228,
 					},
-					[33140] = {
+					[41375] = {
 						["mats"] = {
-							[23440] = 1,
+							[41266] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "琥珀之血",
-						["group"] = 3,
+						["name"] = "持久之天焰钻石",
+						["group"] = 7,
 						["queued"] = 0,
-						["spellID"] = 42592,
+						["spellID"] = 55386,
 					},
 					[21748] = {
 						["mats"] = {
@@ -5197,17 +5252,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 26883,
 					},
-					[42413] = {
+					[39910] = {
 						["mats"] = {
-							[41163] = 2,
-							[36924] = 2,
-							[36933] = 1,
+							[36917] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 蓝宝石猫头鹰",
-						["group"] = 10,
+						["name"] = "精准血石",
+						["group"] = 1,
 						["queued"] = 0,
-						["spellID"] = 56202,
+						["spellID"] = 54017,
 					},
 					[39919] = {
 						["mats"] = {
@@ -5225,6 +5278,7 @@ TradeSkillMaster_CraftingDB = {
 						},
 						["numMade"] = 1,
 						["name"] = "纤巧朱砂玛瑙",
+						["enabled"] = true,
 						["group"] = 6,
 						["queued"] = 0,
 						["spellID"] = 107734,
@@ -5259,16 +5313,28 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 53925,
 					},
-					[95469] = {
+					[43247] = {
 						["mats"] = {
-							[76734] = 3,
+							[35624] = 1,
+							[36932] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "神龙之心",
+						["name"] = "斩杀之翡翠戒指",
 						["group"] = 10,
-						["hasCD"] = true,
 						["queued"] = 0,
-						["spellID"] = 140050,
+						["spellID"] = 58144,
+					},
+					[35694] = {
+						["mats"] = {
+							[32231] = 2,
+							[22452] = 8,
+							[23449] = 8,
+						},
+						["numMade"] = 1,
+						["name"] = "雕像 - 氪金野猪",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 46776,
 					},
 					[24051] = {
 						["mats"] = {
@@ -5279,16 +5345,6 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 2,
 						["queued"] = 0,
 						["spellID"] = 31098,
-					},
-					[32203] = {
-						["mats"] = {
-							[32228] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "风暴天蓝宝石",
-						["group"] = 2,
-						["queued"] = 0,
-						["spellID"] = 39718,
 					},
 					[89675] = {
 						["mats"] = {
@@ -5311,18 +5367,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25339,
 					},
-					[24080] = {
-						["mats"] = {
-							[31079] = 4,
-							[21885] = 3,
-							[23449] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "冰霜氪金指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 31054,
-					},
 					[24089] = {
 						["mats"] = {
 							[21884] = 4,
@@ -5334,6 +5378,17 @@ TradeSkillMaster_CraftingDB = {
 						["group"] = 10,
 						["queued"] = 0,
 						["spellID"] = 31061,
+					},
+					[30422] = {
+						["mats"] = {
+							[12800] = 1,
+							[21752] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "钻石专注戒指",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 36526,
 					},
 					[76517] = {
 						["mats"] = {
@@ -5355,17 +5410,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107627,
 					},
-					[43244] = {
-						["mats"] = {
-							[37701] = 2,
-							[36929] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "水晶茶晶石项链",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 58141,
-					},
 					[20959] = {
 						["mats"] = {
 							[1529] = 1,
@@ -5377,13 +5421,23 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 25619,
 					},
+					[32224] = {
+						["mats"] = {
+							[32249] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "辐光海浪翡翠",
+						["group"] = 5,
+						["queued"] = 0,
+						["spellID"] = 39740,
+					},
 					[76645] = {
 						["mats"] = {
 							[76139] = 1,
 						},
 						["numMade"] = 1,
 						["name"] = "禅悟之荒玉",
-						["enabled"] = false,
+						["enabled"] = true,
 						["group"] = 5,
 						["queued"] = 0,
 						["spellID"] = 106958,
@@ -5399,28 +5453,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107736,
 					},
-					[29159] = {
-						["mats"] = {
-							[12800] = 2,
-							[21752] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "光芒瑟银指环",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 34960,
-					},
-					[21932] = {
-						["mats"] = {
-							[2840] = 4,
-							[20816] = 2,
-						},
-						["numMade"] = 1,
-						["name"] = "重型铜戒指",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 26926,
-					},
 					[30420] = {
 						["mats"] = {
 							[20817] = 1,
@@ -5433,17 +5465,40 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 36524,
 					},
-					[35693] = {
+					[21932] = {
 						["mats"] = {
-							[32228] = 2,
-							[23449] = 8,
-							[23440] = 6,
+							[2840] = 4,
+							[20816] = 2,
 						},
 						["numMade"] = 1,
-						["name"] = "雕像 - 天蓝宝石海龟",
+						["name"] = "重型铜戒指",
 						["group"] = 10,
 						["queued"] = 0,
-						["spellID"] = 46775,
+						["spellID"] = 26926,
+					},
+					[83804] = {
+						["mats"] = {
+							[76134] = 6,
+							[52188] = 1,
+							[76734] = 6,
+						},
+						["numMade"] = 1,
+						["name"] = "遗孀项链",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 122671,
+					},
+					[83802] = {
+						["mats"] = {
+							[76734] = 6,
+							[76138] = 2,
+							[52188] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "深海映像",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 122669,
 					},
 					[31154] = {
 						["mats"] = {
@@ -5488,15 +5543,15 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 39715,
 					},
-					[32225] = {
+					[32226] = {
 						["mats"] = {
-							[32230] = 1,
+							[32249] = 1,
 						},
 						["numMade"] = 1,
-						["name"] = "纯净影歌紫玉",
-						["group"] = 4,
+						["name"] = "裂纹海浪翡翠",
+						["group"] = 5,
 						["queued"] = 0,
-						["spellID"] = 39741,
+						["spellID"] = 39742,
 					},
 					[52104] = {
 						["mats"] = {
@@ -5528,26 +5583,6 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 107639,
 					},
-					[32226] = {
-						["mats"] = {
-							[32249] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "裂纹海浪翡翠",
-						["group"] = 5,
-						["queued"] = 0,
-						["spellID"] = 39742,
-					},
-					[52490] = {
-						["mats"] = {
-							[52180] = 1,
-						},
-						["numMade"] = 1,
-						["name"] = "星尘",
-						["group"] = 10,
-						["queued"] = 0,
-						["spellID"] = 73622,
-					},
 					[32209] = {
 						["mats"] = {
 							[32229] = 1,
@@ -5558,50 +5593,90 @@ TradeSkillMaster_CraftingDB = {
 						["queued"] = 0,
 						["spellID"] = 39724,
 					},
+					[29159] = {
+						["mats"] = {
+							[12800] = 2,
+							[21752] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "光芒瑟银指环",
+						["group"] = 10,
+						["queued"] = 0,
+						["spellID"] = 34960,
+					},
+					[52123] = {
+						["mats"] = {
+							[52182] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "稳固碧玉",
+						["group"] = 5,
+						["queued"] = 0,
+						["spellID"] = 73276,
+					},
 				},
 			},
 			["craftHistory"] = {
 				[107758] = 1,
-				[107699] = 3,
-				[106947] = 7,
-				[107711] = 70,
-				[107715] = 3,
-				[107723] = 3,
-				[107727] = 11,
-				[122666] = 1,
-				[122670] = 1,
-				[107696] = 15,
-				[107767] = 3,
-				[107716] = 16,
-				[107728] = 20,
+				[107699] = 31,
+				[106947] = 19,
+				[107707] = 12,
+				[107711] = 107,
+				[107715] = 8,
+				[107723] = 4,
+				[107727] = 25,
+				[122666] = 2,
+				[122670] = 4,
+				[107696] = 39,
+				[107700] = 1,
+				[107767] = 11,
+				[107716] = 19,
+				[107728] = 32,
 				[122663] = 1,
-				[107736] = 28,
+				[107736] = 58,
 				[107701] = 9,
 				[106949] = 3,
 				[107709] = 12,
-				[107713] = 20,
-				[106961] = 45,
-				[107725] = 6,
-				[107735] = 3,
-				[106962] = 5,
-				[107704] = 24,
-				[107753] = 5,
-				[131593] = 2,
-				[106948] = 20,
-				[107765] = 2,
-				[107706] = 8,
-				[107710] = 4,
-				[106958] = 3,
-				[107718] = 4,
-				[107722] = 7,
-				[130657] = 26,
+				[107713] = 50,
+				[106961] = 47,
 				[107766] = 2,
-				[122665] = 1,
+				[107725] = 35,
+				[107735] = 3,
+				[107704] = 51,
+				[106957] = 11,
+				[106948] = 29,
+				[107745] = 5,
+				[122665] = 5,
+				[107753] = 5,
+				[130657] = 46,
+				[106962] = 5,
+				[107765] = 4,
+				[107706] = 27,
+				[107710] = 11,
+				[106958] = 3,
+				[107718] = 9,
+				[107722] = 9,
 				[106953] = 3,
 				[107717] = 3,
-				[107746] = 15,
-				[107695] = 4,
-				[106957] = 5,
+				[107734] = 1,
+				[131593] = 2,
+				[107695] = 21,
+				[107746] = 28,
+				[107705] = 12,
+				[107764] = 1,
+			},
+			["updatedForMoP"] = true,
+			["Blacksmithing"] = {
+				["mats"] = {
+				},
+				["crafts"] = {
+				},
+			},
+			["Alchemy"] = {
+				["mats"] = {
+				},
+				["crafts"] = {
+				},
 			},
 			["Cooking"] = {
 				["mats"] = {
@@ -5609,46 +5684,40 @@ TradeSkillMaster_CraftingDB = {
 				["crafts"] = {
 				},
 			},
-			["updatedForMoP"] = true,
-			["Alchemy"] = {
-				["mats"] = {
-				},
-				["crafts"] = {
-				},
-			},
-			["Blacksmithing"] = {
-				["mats"] = {
-				},
-				["crafts"] = {
-				},
-			},
 			["playerProfessionInfo"] = {
 				["Jewelcrafting"] = {
-					["萨奇路克"] = 479,
+					["萨奇路克"] = 483,
 				},
 			},
 			["maxRestockQuantity"] = {
-				[83803] = 1,
+				[83798] = 1,
+				[83800] = 1,
 				["Jewelcrafting"] = 3,
+				[76891] = 1,
 				[76893] = 1,
 				[76897] = 1,
-				[83798] = 1,
-				[83799] = 1,
-				[76891] = 1,
-				[76886] = 1,
+				[76692] = 1,
+				[76694] = 1,
+				[76696] = 1,
 				[76884] = 1,
+				[76886] = 1,
+				[83801] = 1,
+				[83803] = 1,
+				[76894] = 1,
+				[76645] = 2,
+				[76650] = 1,
+				[76683] = 1,
+				[83799] = 1,
+				[76636] = 1,
+				[76637] = 1,
+				[76676] = 1,
+				[76668] = 2,
 			},
-			["Tailoring"] = {
-				["mats"] = {
-				},
-				["crafts"] = {
-				},
+			["lastScan"] = {
+				["Jewelcrafting"] = 1363706453,
 			},
-			["Enchanting"] = {
-				["mats"] = {
-				},
-				["crafts"] = {
-				},
+			["queueMinProfitGold"] = {
+				["Jewelcrafting"] = 50,
 			},
 		},
 	},

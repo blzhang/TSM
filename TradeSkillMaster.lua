@@ -9,7 +9,7 @@ TradeSkillMasterDB = {
 	["profiles"] = {
 		["Default"] = {
 			["minimapIcon"] = {
-				["minimapPos"] = 233.1718715237371,
+				["minimapPos"] = 244.4127366805236,
 			},
 			["infoMessage"] = 10,
 		},
