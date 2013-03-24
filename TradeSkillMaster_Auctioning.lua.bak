@@ -1,0 +1,40 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["global"] = {
+		["hideAdvanced"] = false,
+		["treeGroupStatus"] = {
+			["groups"] = {
+				["1"] = true,
+				["2~珠宝"] = true,
+				["2"] = true,
+				["2~"] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = "2~珠宝",
+			["treesizable"] = true,
+			["fullwidth"] = 801.000026486922,
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["groups"] = {
+				["珠宝"] = {
+					["item:76140:0:0:0:0:0:0"] = true,
+					["item:76650:0:0:0:0:0:0"] = true,
+					["item:76659:0:0:0:0:0:0"] = true,
+					["item:89680:0:0:0:0:0:0"] = true,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["萨奇路克 - 暗影之月"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - 暗影之月"] = {
+			["player"] = {
+				["萨奇路克"] = true,
+			},
+		},
+	},
+}

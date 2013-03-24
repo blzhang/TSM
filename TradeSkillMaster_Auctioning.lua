@@ -1,28 +1,45 @@
 
 TradeSkillMaster_AuctioningDB = {
+	["factionrealm"] = {
+		["Alliance - 暗影之月"] = {
+			["player"] = {
+				["萨奇路克"] = true,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["萨奇路克 - 暗影之月"] = "Default",
+	},
+	["global"] = {
+		["treeGroupStatus"] = {
+			["groups"] = {
+				["1"] = true,
+				["2~珠宝"] = true,
+				["2"] = true,
+				["2~"] = true,
+				["2~饰物"] = true,
+				["2~蓝色和红色宝石"] = true,
+				["2~三个一组发珠宝"] = true,
+				["2~10个一组卖宝石"] = true,
+			},
+			["scrollvalue"] = 0,
+			["fullwidth"] = 801.000026486922,
+			["treesizable"] = true,
+			["selected"] = "2~珠宝",
+		},
+		["hideAdvanced"] = false,
+	},
 	["profiles"] = {
 		["Default"] = {
 			["perAuction"] = {
 				["10个一组卖宝石"] = 10,
 			},
+			["postCap"] = {
+				["珠宝"] = 3,
+				["10个一组卖宝石"] = 2,
+			},
 			["groups"] = {
 				["饰物"] = {
-				},
-				["三个一组发珠宝"] = {
-					["item:76697:0:0:0:0:0:0"] = true,
-					["item:76701:0:0:0:0:0:0"] = true,
-				},
-				["蓝色和红色宝石"] = {
-					["item:76693:0:0:0:0:0:0"] = true,
-					["item:76636:0:0:0:0:0:0"] = true,
-					["item:76692:0:0:0:0:0:0"] = true,
-					["item:76694:0:0:0:0:0:0"] = true,
-					["item:76637:0:0:0:0:0:0"] = true,
-					["item:76639:0:0:0:0:0:0"] = true,
-				},
-				["10个一组卖宝石"] = {
-					["item:76133:0:0:0:0:0:0"] = true,
-					["item:76136:0:0:0:0:0:0"] = true,
 				},
 				["珠宝"] = {
 					["item:76667:0:0:0:0:0:0"] = true,
@@ -56,16 +73,32 @@ TradeSkillMaster_AuctioningDB = {
 					["item:76699:0:0:0:0:0:0"] = true,
 					["item:76879:0:0:0:0:0:0"] = true,
 					["item:83800:0:0:0:0:0:0"] = true,
-					["item:76673:0:0:0:0:0:0"] = true,
+					["item:76659:0:0:0:0:0:0"] = true,
 					["item:83801:0:0:0:0:0:0"] = true,
 					["item:76698:0:0:0:0:0:0"] = true,
 					["item:76884:0:0:0:0:0:0"] = true,
 					["item:76687:0:0:0:0:0:0"] = true,
 					["item:76888:0:0:0:0:0:0"] = true,
 					["item:76645:0:0:0:0:0:0"] = true,
-					["item:76659:0:0:0:0:0:0"] = true,
+					["item:76673:0:0:0:0:0:0"] = true,
 					["item:76686:0:0:0:0:0:0"] = true,
 					["item:83798:0:0:0:0:0:0"] = true,
+				},
+				["三个一组发珠宝"] = {
+					["item:76697:0:0:0:0:0:0"] = true,
+					["item:76701:0:0:0:0:0:0"] = true,
+				},
+				["10个一组卖宝石"] = {
+					["item:76133:0:0:0:0:0:0"] = true,
+					["item:76136:0:0:0:0:0:0"] = true,
+				},
+				["蓝色和红色宝石"] = {
+					["item:76693:0:0:0:0:0:0"] = true,
+					["item:76636:0:0:0:0:0:0"] = true,
+					["item:76692:0:0:0:0:0:0"] = true,
+					["item:76694:0:0:0:0:0:0"] = true,
+					["item:76637:0:0:0:0:0:0"] = true,
+					["item:76639:0:0:0:0:0:0"] = true,
 				},
 			},
 			["threshold"] = {
@@ -85,41 +118,8 @@ TradeSkillMaster_AuctioningDB = {
 				["珠宝"] = 2000000,
 				["蓝色和红色宝石"] = 200000,
 			},
-			["postCap"] = {
-				["珠宝"] = 3,
-				["10个一组卖宝石"] = 2,
-			},
 			["fallbackCap"] = {
 				["蓝色和红色宝石"] = 3,
-			},
-		},
-	},
-	["global"] = {
-		["treeGroupStatus"] = {
-			["groups"] = {
-				["1"] = true,
-				["2~珠宝"] = true,
-				["2"] = true,
-				["2~"] = true,
-				["2~饰物"] = true,
-				["2~蓝色和红色宝石"] = true,
-				["2~三个一组发珠宝"] = true,
-				["2~10个一组卖宝石"] = true,
-			},
-			["scrollvalue"] = 0,
-			["selected"] = "2~珠宝",
-			["treesizable"] = true,
-			["fullwidth"] = 801.0001253932696,
-		},
-		["hideAdvanced"] = false,
-	},
-	["profileKeys"] = {
-		["萨奇路克 - 暗影之月"] = "Default",
-	},
-	["factionrealm"] = {
-		["Alliance - 暗影之月"] = {
-			["player"] = {
-				["萨奇路克"] = true,
 			},
 		},
 	},
